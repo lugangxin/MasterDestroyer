@@ -7,6 +7,7 @@ public class FollowTarget : MonoBehaviour {
     public float moveLerp = 0.5f;
     private Transform player;
 	//测试分支
+	//测试分支2
 	// Use this for initialization
 	void Start () {
         player = GameObject.FindGameObjectWithTag("Player").transform;
