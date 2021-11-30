@@ -4,10 +4,10 @@ using System.Collections;
 public class PlayerVillageMove : MonoBehaviour {
 
     public float velocity = 5;
-    private NavMeshAgent agent;
+    private UnityEngine.AI.NavMeshAgent agent;
 
     void Start() {
-        agent = this.GetComponent<NavMeshAgent>();
+        agent = this.GetComponent<UnityEngine.AI.NavMeshAgent>();
     }
 
 	

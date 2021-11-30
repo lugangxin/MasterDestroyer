@@ -3,13 +3,13 @@ using System.Collections;
 
 public class PlayerAutoMove : MonoBehaviour {
 
-    private NavMeshAgent agent;
+    private UnityEngine.AI.NavMeshAgent agent;
     public float minDistance = 3;
 
 
 	// Use this for initialization
 	void Start () {
-        agent = this.GetComponent<NavMeshAgent>();
+        agent = this.GetComponent<UnityEngine.AI.NavMeshAgent>();
 	}
 	
 	// Update is called once per frame

@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd0883a-397a-4b51-b9a2-054ac0a67ba2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Editor/FreeType.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Editor/FreeType.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Editor/FreeType.dylib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Editor/FreeType.dylib.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Examples/Shaders/Refractive.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Examples/Shaders/Refractive.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Examples/Shaders/Unlit - Masked Colored.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Examples/Shaders/Unlit - Masked Colored.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 1.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 1.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 3.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 3.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 1.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 1.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 3.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text 3.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Text.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 1.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 1.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 3.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 3.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 1.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 1.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 3.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 3.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+              <folding>
+                <marker date="1638256364951" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+                <marker date="1638256364951" expanded="false" signature="189:291" ph="..." />
+                <marker date="1638256364951" expanded="true" signature="293:399" ph="/// Helper class containing generic functions used throughout the UI library. ... " />
+                <marker date="1638256364951" expanded="true" signature="430:41468" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="533:649" ph="/// Globally accessible volume affecting all sounds played via NGUITools.PlaySound(). ... " />
+                <marker date="1638256364951" expanded="true" signature="683:974" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="692:827" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="713:798" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="833:971" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="868:967" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="977:1066" ph="/// Helper function -- whether the disk access is allowed. ... " />
+                <marker date="1638256364951" expanded="true" signature="1098:1240" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="1107:1237" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="1243:1308" ph="/// Play the specified audio clip. ... " />
+                <marker date="1638256364951" expanded="true" signature="1402:1493" ph="/// Play the specified audio clip with the specified volume. ... " />
+                <marker date="1638256364951" expanded="true" signature="1605:1706" ph="/// Play the specified audio clip with the specified volume and pitch. ... " />
+                <marker date="1638256364951" expanded="true" signature="1788:2833" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="1855:2815" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="1920:2478" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2057:2239" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2111:2233" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2163:2226" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2267:2473" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2571:2811" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="2836:3965" ph="/* New WWW call can fail if the crossdomain policy doesn't check out. Exceptions suck. It's much more elegant to ... */" />
+                <marker date="1638256364951" expanded="true" signature="3968:4231" ph="/// Same as Random.Range, but the returned value is between min and max, inclusive. ... " />
+                <marker date="1638256364951" expanded="true" signature="4282:4367" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="4370:4468" ph="/// Returns the hierarchy of the object in a human-readable format. ... " />
+                <marker date="1638256364951" expanded="true" signature="4521:4722" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="4620:4704" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="4725:4802" ph="/// Find all active objects of specified type. ... " />
+                <marker date="1638256364951" expanded="true" signature="4859:4922" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="4925:5035" ph="/// Find the camera responsible for drawing the objects on the specified layer. ... " />
+                <marker date="1638256364951" expanded="true" signature="5089:5804" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="5185:5306" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="5676:5786" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="5807:5907" ph="/// Add a collider to the game object containing one or more widgets. ... " />
+                <marker date="1638256364951" expanded="true" signature="5999:6099" ph="/// Add a collider to the game object containing one or more widgets. ... " />
+                <marker date="1638256364951" expanded="true" signature="6177:7546" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="6198:7533" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="6329:6400" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="6596:6668" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="6838:7188" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="7196:7529" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="7549:7683" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+                <marker date="1638256364951" expanded="true" signature="7741:7782" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="7785:7919" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+                <marker date="1638256364951" expanded="true" signature="8000:8299" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8021:8296" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8097:8167" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8302:8436" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+                <marker date="1638256364951" expanded="true" signature="8519:9373" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8541:9370" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8644:9130" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8743:8960" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="8969:9125" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="9138:9314" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="9376:9510" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+                <marker date="1638256364951" expanded="true" signature="9595:10110" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="9617:10107" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="9720:9871" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="9879:10051" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="10113:10205" ph="/// Helper function that returns the string name of the type. ... " />
+                <marker date="1638256364951" expanded="true" signature="10246:10407" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="10410:10502" ph="/// Helper function that returns the string name of the type. ... " />
+                <marker date="1638256364951" expanded="true" signature="10562:10761" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="10764:10868" ph="/// Convenience method that works without warnings in both Unity 3 and 4. ... " />
+                <marker date="1638256364951" expanded="true" signature="10940:11041" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="11044:11161" ph="/// Convenience function that marks the specified object as dirty in the Unity Editor. ... " />
+                <marker date="1638256364951" expanded="true" signature="11216:11552" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="11247:11542" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="11255:11494" ph="/* if (obj is Component) Debug.Log(NGUITools.GetHierarchy((obj as Component).gameObject), obj); ... */" />
+                <marker date="1638256364951" expanded="true" signature="11555:11618" ph="/// Add a new child game object. ... " />
+                <marker date="1638256364951" expanded="true" signature="11712:11775" ph="/// Add a new child game object. ... " />
+                <marker date="1638256364951" expanded="true" signature="11842:12227" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="12004:12211" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="12230:12322" ph="/// Instantiate an object and add it to the specified parent. ... " />
+                <marker date="1638256364951" expanded="true" signature="12397:12814" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="12591:12798" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="12817:12962" ph="/// Calculate the game object's depth based on the widgets within, and also taking panel depth into consideration ... " />
+                <marker date="1638256364951" expanded="true" signature="13020:13405" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="13296:13386" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="13408:13508" ph="/// Gathers all widgets and calculates the depth for the next widget. ... " />
+                <marker date="1638256364951" expanded="true" signature="13563:13773" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="13776:13876" ph="/// Gathers all widgets and calculates the depth for the next widget. ... " />
+                <marker date="1638256364951" expanded="true" signature="13965:14411" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14003:14375" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14148:14350" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14414:14603" ph="/// Adjust the widgets' depth by the specified value. ... " />
+                <marker date="1638256364951" expanded="true" signature="14667:15360" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14688:15345" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14762:15040" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="14882:15021" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="15048:15341" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="15181:15322" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="15363:15455" ph="/// Bring all of the widgets on the specified object forward. ... " />
+                <marker date="1638256364951" expanded="true" signature="15505:15632" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="15635:15766" ph="/// Push all of the widgets on the specified object back, making them appear behind everything else. ... " />
+                <marker date="1638256364951" expanded="true" signature="15812:15940" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="15943:16088" ph="/// Normalize the depths of all the widgets and panels in the scene, making them start from 0 and remain in order ... " />
+                <marker date="1638256364951" expanded="true" signature="16128:16187" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16190:16324" ph="/// Normalize the depths of all the widgets in the scene, making them start from 0 and remain in order. ... " />
+                <marker date="1638256364951" expanded="true" signature="16370:16772" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16460:16769" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16597:16765" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16657:16691" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16700:16760" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="16775:16908" ph="/// Normalize the depths of all the panels in the scene, making them start from 0 and remain in order. ... " />
+                <marker date="1638256364951" expanded="true" signature="16953:17347" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="17041:17344" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="17173:17340" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="17232:17266" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="17275:17335" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="17350:17401" ph="/// Create a new UI. ... " />
+                <marker date="1638256364951" expanded="true" signature="17498:17549" ph="/// Create a new UI. ... " />
+                <marker date="1638256364951" expanded="true" signature="17660:17711" ph="/// Create a new UI. ... " />
+                <marker date="1638256364951" expanded="true" signature="17790:21136" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18101:18291" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18242:18287" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18346:18847" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18657:18747" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18755:18843" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="18954:20590" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="19199:19580" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="19932:20061" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="20069:20194" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="20612:21117" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="20748:20851" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="20859:21113" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="21139:21282" ph="/// Helper function that recursively sets all children with widgets' game objects layers to the specified value. ... " />
+                <marker date="1638256364951" expanded="true" signature="21342:21500" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="21386:21497" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="21503:21621" ph="/// Add a child object to the specified parent and attaches the specified script to it. ... " />
+                <marker date="1638256364951" expanded="true" signature="21691:21794" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="21797:21915" ph="/// Add a child object to the specified parent and attaches the specified script to it. ... " />
+                <marker date="1638256364951" expanded="true" signature="21996:22105" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="22108:22178" ph="/// Add a new widget of specified type. ... " />
+                <marker date="1638256364951" expanded="true" signature="22244:22499" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="22502:22681" ph="/// Add a sprite appropriate for the specified atlas sprite. ... " />
+                <marker date="1638256364951" expanded="true" signature="22766:23059" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23062:23150" ph="/// Get the rootmost object of the specified game object. ... " />
+                <marker date="1638256364951" expanded="true" signature="23201:23359" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23248:23333" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23362:23468" ph="/// Finds the specified component on the game object or one of its parents. ... " />
+                <marker date="1638256364951" expanded="true" signature="23539:23913" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23693:23848" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23773:23844" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="23916:24022" ph="/// Finds the specified component on the game object or one of its parents. ... " />
+                <marker date="1638256364951" expanded="true" signature="24095:24481" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24258:24416" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24341:24412" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24484:24577" ph="/// Destroy the specified object, immediately if in edit mode. ... " />
+                <marker date="1638256364951" expanded="true" signature="24631:24904" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24653:24901" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24687:24847" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24719:24804" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="24907:25060" ph="/// Destroy the specified object immediately, unless not in the editor, in which case the regular Destroy is used ... " />
+                <marker date="1638256364951" expanded="true" signature="25123:25268" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="25145:25265" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="25271:25362" ph="/// Call the specified function on all objects in the scene. ... " />
+                <marker date="1638256364951" expanded="true" signature="25411:25626" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="25629:25720" ph="/// Call the specified function on all objects in the scene. ... " />
+                <marker date="1638256364951" expanded="true" signature="25783:26005" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="26008:26111" ph="/// Determines whether the 'parent' contains a 'child' in its hierarchy. ... " />
+                <marker date="1638256364951" expanded="true" signature="26176:26346" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="26257:26327" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="26349:26438" ph="/// Activate the specified object and all of its children. ... " />
+                <marker date="1638256364951" expanded="true" signature="26502:26591" ph="/// Activate the specified object and all of its children. ... " />
+                <marker date="1638256364951" expanded="true" signature="26652:27243" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="26718:27240" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="26887:26979" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="27162:27236" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="27246:27337" ph="/// Deactivate the specified object and all of its children. ... " />
+                <marker date="1638256364951" expanded="true" signature="27419:27604" ph="/// SetActiveRecursively enables children before parents. This is a problem when a widget gets re-enabled ... " />
+                <marker date="1638256364951" expanded="true" signature="27698:27883" ph="/// SetActiveRecursively enables children before parents. This is a problem when a widget gets re-enabled ... " />
+                <marker date="1638256364951" expanded="true" signature="27966:28186" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="27979:28183" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="27997:28145" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="28189:28344" ph="/// Ensure that all widgets have had their panels created, forcing the update right away rather than on the follo ... " />
+                <marker date="1638256364951" expanded="true" signature="28467:28639" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="28642:28793" ph="/// Activate or deactivate children of the specified game object without changing the active state of the object  ... " />
+                <marker date="1638256364951" expanded="true" signature="28860:29181" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="28907:29038" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="28966:29034" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="29045:29178" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="29104:29174" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="29184:29294" ph="/// Helper function that returns whether the specified MonoBehaviour is active. ... " />
+                <marker date="1638256364951" expanded="true" signature="29393:29469" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="29472:29582" ph="/// Helper function that returns whether the specified MonoBehaviour is active. ... " />
+                <marker date="1638256364951" expanded="true" signature="29707:29775" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="29778:29875" ph="/// Unity4 has changed GameObject.active to GameObject.activeself. ... " />
+                <marker date="1638256364951" expanded="true" signature="30001:30044" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="30047:30143" ph="/// Unity4 has changed GameObject.active to GameObject.SetActive. ... " />
+                <marker date="1638256364951" expanded="true" signature="30285:30314" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="30317:30392" ph="/// Recursively set the game object's layer. ... " />
+                <marker date="1638256364951" expanded="true" signature="30449:30645" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="30560:30642" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="30648:30743" ph="/// Helper function used to make the vector use integer numbers. ... " />
+                <marker date="1638256364951" expanded="true" signature="30785:30881" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="30884:30962" ph="/// Make the specified selection pixel-perfect. ... " />
+                <marker date="1638256364951" expanded="true" signature="31014:31457" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="31178:31336" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="31460:31550" ph="/// Save the specified binary data into the specified file. ... " />
+                <marker date="1638256364951" expanded="true" signature="31608:32133" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="31827:31896" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="31930:31967" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="31997:32053" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="32136:32216" ph="/// Load all binary data from the specified file. ... " />
+                <marker date="1638256364951" expanded="true" signature="32262:32551" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="32483:32526" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="32554:32706" ph="/// Pre-multiply shaders result in a black outline if this operation is done in the shader. It's better to do it  ... " />
+                <marker date="1638256364951" expanded="true" signature="32747:32835" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="32767:32820" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="32838:32952" ph="/// Inform all widgets underneath the specified object that the parent has changed. ... " />
+                <marker date="1638256364951" expanded="true" signature="33009:33158" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="33161:33242" ph="/// Access to the clipboard via undocumented APIs. ... " />
+                <marker date="1638256364951" expanded="true" signature="33275:33495" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="33284:33371" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="33377:33492" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="33943:34153" ph="/// Extension for the game object that checks to see if the component already exists before adding a new one. ... " />
+                <marker date="1638256364951" expanded="true" signature="34235:34560" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="34358:34495" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="34653:34770" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+                <marker date="1638256364951" expanded="true" signature="34823:34913" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="34916:35033" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+                <marker date="1638256364951" expanded="true" signature="35099:35141" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="35144:35261" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+                <marker date="1638256364951" expanded="true" signature="35336:35432" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="35435:35552" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+                <marker date="1638256364951" expanded="true" signature="35640:36461" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="36341:36441" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="36464:36597" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+                <marker date="1638256364951" expanded="true" signature="36657:36754" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="36757:36890" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+                <marker date="1638256364951" expanded="true" signature="36963:37012" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="37015:37148" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+                <marker date="1638256364951" expanded="true" signature="37230:37333" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="37336:37469" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+                <marker date="1638256364951" expanded="true" signature="37564:38385" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="38265:38365" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="38388:38516" ph="/// Convenience function that converts Class + Function combo into Class.Function representation. ... " />
+                <marker date="1638256364951" expanded="true" signature="38579:38822" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="38858:38950" ph="/// Execute the specified function on the target game object. ... " />
+                <marker date="1638256364951" expanded="true" signature="39035:39460" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="39104:39457" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="39463:39579" ph="/// Execute the specified function on the target game object and all of its children. ... " />
+                <marker date="1638256364951" expanded="true" signature="39669:39845" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="39848:40079" ph="/// Immediately start, update, and create all the draw calls from newly instantiated UI. ... " />
+                <marker date="1638256364951" expanded="true" signature="40145:40350" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="40510:40652" ph="/// Size of the game view cannot be retrieved from Screen.width and Screen.height when the game view is hidden. ... " />
+                <marker date="1638256364951" expanded="true" signature="40687:41213" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="40696:41210" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="40787:41185" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="40858:41111" ph="{...}" />
+                <marker date="1638256364951" expanded="true" signature="41221:41363" ph="/* Size of the game view cannot be retrieved from Screen.width and Screen.height when the game view is hidden. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-194">
+              <caret line="850" column="59" selection-start-line="850" selection-start-column="59" selection-end-line="850" selection-end-column="59" />
+              <folding>
+                <marker date="1638256361041" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+                <marker date="1638256361041" expanded="false" signature="189:235" ph="..." />
+                <marker date="1638256361041" expanded="true" signature="237:383" ph="/// UI Panel is responsible for collecting, sorting and updating widgets in addition to generating widgets' geome ... " />
+                <marker date="1638256361041" expanded="true" signature="475:42733" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="479:536" ph="/// List of active panels. ... " />
+                <marker date="1638256361041" expanded="true" signature="620:662" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="710:847" ph="/// Notification triggered when the panel's geometry get rebuilt. It's mainly here for debugging purposes. ... " />
+                <marker date="1638256361041" expanded="true" signature="896:1043" ph="/// Whether this panel will show up in the panel tool (set this to 'false' for dynamically created temporary pane ... " />
+                <marker date="1638256361041" expanded="true" signature="1084:1180" ph="/// Whether normals and tangents will be generated for all meshes ... " />
+                <marker date="1638256361041" expanded="true" signature="1223:1349" ph="/// Whether widgets drawn by this panel are static (won't move). This will improve performance. ... " />
+                <marker date="1638256361041" expanded="true" signature="1392:1584" ph="/// Whether widgets will be culled while the panel is being dragged. ... " />
+                <marker date="1638256361041" expanded="true" signature="1627:1804" ph="/// Optimization flag. Makes the assumption that the panel's geometry ... " />
+                <marker date="1638256361041" expanded="true" signature="1845:2073" ph="/// By default, non-clipped panels use the camera's bounds, and the panel's position has no effect. ... " />
+                <marker date="1638256361041" expanded="true" signature="2112:2327" ph="/// By default all panels manage render queues of their draw calls themselves by incrementing them ... " />
+                <marker date="1638256361041" expanded="true" signature="2388:2611" ph="/// Render queue used by the panel. The default value of '3000' is the equivalent of &quot;Transparent&quot;. ... " />
+                <marker date="1638256361041" expanded="true" signature="2655:2773" ph="/// List of widgets managed by this panel. Do not attempt to modify this list yourself. ... " />
+                <marker date="1638256361041" expanded="true" signature="2856:2977" ph="/// List of draw calls created by this panel. Do not attempt to modify this list yourself. ... " />
+                <marker date="1638256361041" expanded="true" signature="3066:3193" ph="/// Matrix that will transform the specified world coordinates to relative-to-panel coordinates. ... " />
+                <marker date="1638256361041" expanded="true" signature="3274:3360" ph="/// Cached clip range passed to the draw call's shader. ... " />
+                <marker date="1638256361041" expanded="true" signature="3509:3616" ph="/// Event callback that's triggered when the panel's clip region gets moved. ... " />
+                <marker date="1638256361041" expanded="true" signature="4677:4770" ph="/// Helper property that returns the first unused depth value. ... " />
+                <marker date="1638256361041" expanded="true" signature="4806:5014" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="4815:5011" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5017:5090" ph="/// Whether the rectangle can be anchored. ... " />
+                <marker date="1638256361041" expanded="true" signature="5188:5275" ph="/// Panel's alpha affects everything drawn by the panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="5305:5506" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5314:5340" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5346:5503" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5410:5499" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5509:5654" ph="/// Panels can have their own depth value that will change the order with which everything they manage gets drawn ... " />
+                <marker date="1638256361041" expanded="true" signature="5673:5861" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5682:5708" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5714:5858" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5742:5854" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="5864:5981" ph="/// Sorting order value for the panel's draw calls, to be used with Unity's 2D system. ... " />
+                <marker date="1638256361041" expanded="true" signature="6007:6211" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6016:6049" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6055:6208" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6090:6204" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6214:6296" ph="/// Function that can be used to depth-sort panels. ... " />
+                <marker date="1638256361041" expanded="true" signature="6351:6554" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6394:6539" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="6557:6616" ph="/// Panel's width in pixels. ... " />
+                <marker date="1638256361041" expanded="true" signature="6676:6736" ph="/// Panel's height in pixels. ... " />
+                <marker date="1638256361041" expanded="true" signature="6797:6902" ph="/// Whether the panel's drawn geometry needs to be offset by a half-pixel. ... " />
+                <marker date="1638256361041" expanded="true" signature="6972:7054" ph="/// Whether the camera is used to draw UI geometry. ... " />
+                <marker date="1638256361041" expanded="true" signature="7137:7212" ph="/// Directx9 pixel offset, used for drawing. ... " />
+                <marker date="1638256361041" expanded="true" signature="7244:7486" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7253:7483" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7319:7455" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7489:7563" ph="/// Clipping method used by all draw calls. ... " />
+                <marker date="1638256361041" expanded="true" signature="7601:7835" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7610:7639" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7645:7832" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7676:7828" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="7869:7942" ph="/// Reference to the parent panel, if any. ... " />
+                <marker date="1638256361041" expanded="true" signature="8007:8091" ph="/// Number of times the panel's contents get clipped. ... " />
+                <marker date="1638256361041" expanded="true" signature="8114:8308" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="8123:8305" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="8188:8284" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="8311:8407" ph="/// Whether the panel will actually perform clipping of children. ... " />
+                <marker date="1638256361041" expanded="true" signature="8498:8594" ph="/// Whether the panel will actually perform clipping of children. ... " />
+                <marker date="1638256361041" expanded="true" signature="8813:9149" ph="/// Clipping area offset used to make it possible to move clipped panels (scroll views) efficiently. ... " />
+                <marker date="1638256361041" expanded="true" signature="9177:9551" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9186:9217" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9223:9548" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9330:9544" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9554:9651" ph="/// Invalidate the panel's clipping, calling child panels in turn. ... " />
+                <marker date="1638256361041" expanded="true" signature="9680:9948" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9842:9945" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="9951:10147" ph="/// Clipping position (XY) and size (ZW). ... " />
+                <marker date="1638256361041" expanded="true" signature="10246:10333" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10255:10289" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10295:10330" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10336:10532" ph="/// Clipping position (XY) and size (ZW). ... " />
+                <marker date="1638256361041" expanded="true" signature="10564:11182" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10573:10603" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10609:11179" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="10814:11175" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11185:11317" ph="/// Final clipping region after the offset has been taken into consideration. XY = center, ZW = size. ... " />
+                <marker date="1638256361041" expanded="true" signature="11350:11607" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11359:11604" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11443:11553" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11610:11709" ph="/// Clipping softness is used if the clipped style is set to &quot;Soft&quot;. ... " />
+                <marker date="1638256361041" expanded="true" signature="11739:11941" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11748:11781" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11787:11938" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="11822:11934" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="12036:12186" ph="/// Local-space corners of the panel's clipping rectangle. The order is bottom-left, top-left, top-right, bottom- ... " />
+                <marker date="1638256361041" expanded="true" signature="12227:12877" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="12236:12874" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="12286:12473" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="12481:12850" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="12880:13030" ph="/// World-space corners of the panel's clipping rectangle. The order is bottom-left, top-left, top-right, bottom- ... " />
+                <marker date="1638256361041" expanded="true" signature="13071:14319" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="13080:14316" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="13130:13576" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="13584:14292" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="13611:13837" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="13690:13810" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="14171:14287" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="14322:14468" ph="/// Get the sides of the rectangle relative to the specified transform. ... " />
+                <marker date="1638256361041" expanded="true" signature="14528:15569" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="14576:15217" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="15091:15195" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="15242:15530" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="15407:15509" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="15572:15653" ph="/// Invalidating the panel should reset its alpha. ... " />
+                <marker date="1638256361041" expanded="true" signature="15710:15774" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="15777:15878" ph="/// Widget's final alpha, after taking the panel's alpha into account. ... " />
+                <marker date="1638256361041" expanded="true" signature="15936:16228" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="16059:16204" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="16231:16292" ph="/// Set the panel's rectangle. ... " />
+                <marker date="1638256361041" expanded="true" signature="16369:17195" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="16864:17192" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="17198:17337" ph="/// Returns whether the specified rectangle is visible by the panel. The coordinates must be in world space. ... " />
+                <marker date="1638256361041" expanded="true" signature="17406:18105" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="18108:18249" ph="/// Returns whether the specified world position is within the panel's bounds determined by the clipping rect. ... " />
+                <marker date="1638256361041" expanded="true" signature="18292:18698" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="18701:18797" ph="/// Returns whether the specified widget is visible by the panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="18834:19268" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="18906:19250" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="19041:19089" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="19271:19384" ph="/// Whether the specified widget is going to be affected by this panel in any way. ... " />
+                <marker date="1638256361041" expanded="true" signature="19419:19696" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="19564:19677" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="19699:19792" ph="/// Causes all draw calls to be re-created on the next update. ... " />
+                <marker date="1638256361041" expanded="true" signature="19885:20043" ph="/// Invalidate the panel's draw calls, forcing them to be rebuilt on the next update. ... " />
+                <marker date="1638256361041" expanded="true" signature="20069:20184" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="20187:20239" ph="/// Cache components. ... " />
+                <marker date="1638256361041" expanded="true" signature="20255:20687" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="20690:20763" ph="/// Find the parent panel, if we have one. ... " />
+                <marker date="1638256361041" expanded="true" signature="20784:20931" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="20934:21007" ph="/// Find the parent panel, if we have one. ... " />
+                <marker date="1638256361041" expanded="true" signature="21050:21099" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="21102:21207" ph="/// Layer is used to ensure that if it changes, widgets get moved as well. ... " />
+                <marker date="1638256361041" expanded="true" signature="21244:21408" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="21411:21466" ph="/// Reset the frame IDs. ... " />
+                <marker date="1638256361041" expanded="true" signature="21504:21625" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="21628:21736" ph="/// Mark all widgets as having been changed so the draw calls get re-created. ... " />
+                <marker date="1638256361041" expanded="true" signature="21772:22661" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="21875:22534" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="21973:22530" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="22077:22203" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="22208:22525" ph="/* It's unclear if this helps 2D physics or not, so leaving it disabled for now. ... */" />
+                <marker date="1638256361041" expanded="true" signature="22664:22767" ph="/// Destroy all draw calls we've created when this script gets disabled. ... " />
+                <marker date="1638256361041" expanded="true" signature="22806:23146" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="22866:22950" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="23065:23123" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="23149:23254" ph="/// Update the world-to-local transform matrix as well as clipping bounds. ... " />
+                <marker date="1638256361041" expanded="true" signature="23286:23656" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="23344:23653" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="23659:23747" ph="/// Update the edges after the anchors have been updated. ... " />
+                <marker date="1638256361041" expanded="true" signature="23785:27048" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="24236:24951" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="24313:24691" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="24699:24947" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="24958:26463" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25012:25289" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25092:25196" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25205:25284" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25385:25667" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25466:25572" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25581:25662" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25765:26052" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25847:25955" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="25964:26047" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="26144:26416" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="26223:26325" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="26334:26411" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27083:27151" ph="/// Update all panels and draw calls. ... " />
+                <marker date="1638256361041" expanded="true" signature="27172:28127" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27309:28124" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27599:28120" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27678:27779" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27830:27970" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="27991:28115" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28130:28217" ph="/// Update the panel, all of its widgets and draw calls. ... " />
+                <marker date="1638256361041" expanded="true" signature="28238:28794" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28354:28406" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28413:28642" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28459:28638" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28540:28624" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28664:28791" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28797:28867" ph="/// Immediately sort all child widgets. ... " />
+                <marker date="1638256361041" expanded="true" signature="28896:28969" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="28972:29086" ph="/// Fill the geometry fully, processing all widgets and re-creating all draw calls. ... " />
+                <marker date="1638256361041" expanded="true" signature="29113:30479" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29388:30381" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29458:30350" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29597:29781" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29646:29729" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29833:30345" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="29860:30014" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30024:30158" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30422:30476" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30482:30563" ph="/// Fill the geometry for the specified draw call. ... " />
+                <marker date="1638256361041" expanded="true" signature="30599:31265" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30620:31246" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30688:31162" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30742:30868" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30895:31148" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="30940:31113" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="31190:31242" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="31268:31351" ph="/// Update all draw calls associated with the panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="31377:33045" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="31487:31599" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="31877:31949" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="31969:32083" ph="/* We want the position to always be on even pixels so that the ... */" />
+                <marker date="1638256361041" expanded="true" signature="32095:32463" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="32209:32433" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="32609:33042" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="33048:33141" ph="/// Update the widget layers if the panel's layer has changed. ... " />
+                <marker date="1638256361041" expanded="true" signature="33164:33568" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="33253:33565" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="33595:33680" ph="/// Update all of the widgets belonging to this panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="33703:35999" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="33971:34026" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34147:35870" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34259:35866" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34286:34411" ph="/* When an object is dragged from Project view to Scene view, its Z is... ... */" />
+                <marker date="1638256361041" expanded="true" signature="34443:35125" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34539:34659" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34680:35119" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34704:34849" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="34871:35112" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="35255:35525" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="35612:35861" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="35660:35855" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="35697:35747" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="35758:35848" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36002:36248" ph="/// Insert the specified widget into one of the existing draw calls if possible. ... " />
+                <marker date="1638256361041" expanded="true" signature="36294:36955" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36425:36918" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36672:36914" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36734:36866" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36762:36860" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="36958:37043" ph="/// Make the following widget be managed by the panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="37080:37517" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37134:37161" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37186:37231" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37290:37323" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37330:37495" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37374:37491" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37520:37635" ph="/// Remove the widget from its current draw call, invalidating everything as needed. ... " />
+                <marker date="1638256361041" expanded="true" signature="37675:37905" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37725:37902" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="37908:37973" ph="/// Immediately refresh the panel. ... " />
+                <marker date="1638256361041" expanded="true" signature="37998:38067" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="38070:38177" ph="/// Calculate the offset needed to be constrained within the panel's bounds. ... " />
+                <marker date="1638256361041" expanded="true" signature="38254:38834" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="38626:38762" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="38837:38936" ph="/// Constrain the current target position to be within panel bounds. ... " />
+                <marker date="1638256361041" expanded="true" signature="39034:39573" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="39151:39554" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="39173:39357" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="39365:39534" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="39576:39674" ph="/// Constrain the specified target to be within the panel's bounds. ... " />
+                <marker date="1638256361041" expanded="true" signature="39747:39901" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="39904:40005" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+                <marker date="1638256361041" expanded="true" signature="40090:40191" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+                <marker date="1638256361041" expanded="true" signature="40308:40409" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+                <marker date="1638256361041" expanded="true" signature="40489:40783" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="40558:40705" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="40786:40863" ph="/// Get the size of the game window in pixels. ... " />
+                <marker date="1638256361041" expanded="true" signature="40890:41049" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="41052:41163" ph="/// Panel's size -- which is either the clipping rect, or the screen dimensions. ... " />
+                <marker date="1638256361041" expanded="true" signature="41195:41428" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="41339:41410" ph="/* UIRoot rt = root; ... */" />
+                <marker date="1638256361041" expanded="true" signature="41448:41532" ph="/// Draw a visible pink outline for the clipped area. ... " />
+                <marker date="1638256361041" expanded="true" signature="41555:42708" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="42442:42705" ph="{...}" />
+                <marker date="1638256361041" expanded="true" signature="42450:42532" ph="/* UIRoot rt = root; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-198">
+              <caret line="754" column="37" selection-start-line="754" selection-start-column="37" selection-end-line="754" selection-end-column="37" />
+              <folding>
+                <marker date="1638256370908" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+                <marker date="1638256370908" expanded="false" signature="313:378" ph="..." />
+                <marker date="1638256370908" expanded="true" signature="380:485" ph="/// Input field makes it possible to enter custom information within the UI. ... " />
+                <marker date="1638256370908" expanded="true" signature="565:33649" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="590:635" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="660:730" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="757:911" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="937:975" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="1058:1151" ph="/// Currently active input field. Only valid during callbacks. ... " />
+                <marker date="1638256370908" expanded="true" signature="1187:1261" ph="/// Currently selected input field, if any. ... " />
+                <marker date="1638256370908" expanded="true" signature="1299:1379" ph="/// Text label used to display the input's value. ... " />
+                <marker date="1638256370908" expanded="true" signature="1406:1482" ph="/// Type of data expected by the input field. ... " />
+                <marker date="1638256370908" expanded="true" signature="1536:1629" ph="/// What to do when the Return key is pressed on the keyboard. ... " />
+                <marker date="1638256370908" expanded="true" signature="1688:1780" ph="/// Keyboard type applies to mobile keyboards that get shown. ... " />
+                <marker date="1638256370908" expanded="true" signature="1842:1930" ph="/// Whether the input will be hidden on mobile platforms. ... " />
+                <marker date="1638256370908" expanded="true" signature="1966:2060" ph="/// What kind of validation to use with the input field's data. ... " />
+                <marker date="1638256370908" expanded="true" signature="2113:2214" ph="/// Maximum number of characters allowed before input no longer works. ... " />
+                <marker date="1638256370908" expanded="true" signature="2250:2344" ph="/// Field in player prefs used to automatically save the value. ... " />
+                <marker date="1638256370908" expanded="true" signature="2372:2450" ph="/// Object to select when Tab key gets pressed. ... " />
+                <marker date="1638256370908" expanded="true" signature="2486:2571" ph="/// Color of the label when the input field has focus. ... " />
+                <marker date="1638256370908" expanded="true" signature="2620:2686" ph="/// Color used by the caret symbol. ... " />
+                <marker date="1638256370908" expanded="true" signature="2746:2819" ph="/// Color used by the selection rectangle. ... " />
+                <marker date="1638256370908" expanded="true" signature="2901:3000" ph="/// Event delegates triggered when the input field submits its data. ... " />
+                <marker date="1638256370908" expanded="true" signature="3070:3182" ph="/// Event delegates triggered when the input field's text changes for any reason. ... " />
+                <marker date="1638256370908" expanded="true" signature="3252:3314" ph="/// Custom validation callback. ... " />
+                <marker date="1638256370908" expanded="true" signature="3349:3404" ph="/// Input field's value. ... " />
+                <marker date="1638256370908" expanded="true" signature="4650:4724" ph="/// Default text used by the input's label. ... " />
+                <marker date="1638256370908" expanded="true" signature="4752:4877" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="4761:4793" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="4799:4874" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="4880:4942" ph="/// Should the input be hidden? ... " />
+                <marker date="1638256370908" expanded="true" signature="4976:5134" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="4985:5131" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="5265:5333" ph="/// Input field's current text value. ... " />
+                <marker date="1638256370908" expanded="true" signature="5355:6435" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="5364:5480" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="5486:6432" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6053:6428" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6128:6345" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6172:6238" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6248:6339" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6573:6648" ph="/// Whether the input is currently selected. ... " />
+                <marker date="1638256370908" expanded="true" signature="6673:6849" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6682:6719" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6725:6846" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6852:6918" ph="/// Current position of the cursor. ... " />
+                <marker date="1638256370908" expanded="true" signature="6946:7274" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="6955:7105" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7111:7271" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7134:7267" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7277:7358" ph="/// Index of the character where selection begins. ... " />
+                <marker date="1638256370908" expanded="true" signature="7386:7707" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7395:7536" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7542:7704" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7565:7700" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7710:7789" ph="/// Index of the character where selection ends. ... " />
+                <marker date="1638256370908" expanded="true" signature="7815:8143" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7824:7974" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="7980:8140" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="8003:8136" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="8146:8208" ph="/// Caret, in case it's needed. ... " />
+                <marker date="1638256370908" expanded="true" signature="8263:8359" ph="/// Validate the specified text, returning the validated version. ... " />
+                <marker date="1638256370908" expanded="true" signature="8397:8878" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="8537:8752" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="8881:8988" ph="/// Automatically set the value by loading it from player prefs if possible. ... " />
+                <marker date="1638256370908" expanded="true" signature="9004:9124" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="9127:9212" ph="/// Labels used for input shouldn't support rich text. ... " />
+                <marker date="1638256370908" expanded="true" signature="9237:9724" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="9272:9721" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="9449:9619" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="9727:9803" ph="/// Save the specified value to player prefs. ... " />
+                <marker date="1638256370908" expanded="true" signature="9851:10014" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="9892:10011" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="10017:10093" ph="/// Selection event, sent by the EventSystem. ... " />
+                <marker date="1638256370908" expanded="true" signature="10145:10212" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="10215:10300" ph="/// Notification of the input field gaining selection. ... " />
+                <marker date="1638256370908" expanded="true" signature="10334:10631" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="10384:10549" ph="/* Unity has issues bringing up the keyboard properly if it's in &quot;hideInput&quot; mode and you happen ... */" />
+                <marker date="1638256370908" expanded="true" signature="10634:10718" ph="/// Notification of the input field losing selection. ... " />
+                <marker date="1638256370908" expanded="true" signature="10754:11255" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="10831:11214" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="11027:11101" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="11258:11324" ph="/// Update the text based on input. ... " />
+                <marker date="1638256370908" expanded="true" signature="11342:16418" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="11425:16415" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="11708:11874" ph="/* Unity has issues bringing up the keyboard properly if it's in &quot;hideInput&quot; mode and you happen ... */" />
+                <marker date="1638256370908" expanded="true" signature="11930:14080" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="14860:14929" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="14978:15151" ph="/* There seems to be an inconsistency between IME on Windows, and IME on OSX. ... */" />
+                <marker date="1638256370908" expanded="true" signature="15230:15776" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="15242:15400" ph="/* Process input ignoring non-printable characters as they are not consistent. ... */" />
+                <marker date="1638256370908" expanded="true" signature="15476:15770" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="15832:16004" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16085:16172" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16177:16339" ph="/* If the label's final alpha changes, we need to update the drawn geometry, ... */" />
+                <marker date="1638256370908" expanded="true" signature="16421:16556" ph="/// Unfortunately Unity 4.3 and earlier doesn't offer a way to properly process events outside of OnGUI. ... " />
+                <marker date="1638256370908" expanded="true" signature="16572:16674" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16677:16742" ph="/// Perform a backspace operation. ... " />
+                <marker date="1638256370908" expanded="true" signature="16774:16949" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16814:16946" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16859:16927" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="16952:17014" ph="/// Handle the specified event. ... " />
+                <marker date="1638256370908" expanded="true" signature="17063:21405" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="17489:21386" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="17664:17830" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="17713:17807" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="17939:18075" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="18185:18333" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="18439:18545" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="18653:18771" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="18875:19103" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="18907:18997" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="19206:19445" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="19238:19327" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="19552:19770" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="19879:20165" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="20243:20352" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="20424:20494" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="20567:20628" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="20699:20786" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="21148:21179" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="21188:21360" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="21408:21542" ph="/// Insert the specified text string into the current input value, respecting selection and validation. ... " />
+                <marker date="1638256370908" expanded="true" signature="21588:22902" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="21861:22371" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="21967:22010" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="22617:22834" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="22905:22982" ph="/// Get the text to the left of the selection. ... " />
+                <marker date="1638256370908" expanded="true" signature="23016:23161" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="23164:23242" ph="/// Get the text to the right of the selection. ... " />
+                <marker date="1638256370908" expanded="true" signature="23277:23432" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="23435:23498" ph="/// Get currently selected text. ... " />
+                <marker date="1638256370908" expanded="true" signature="23533:23804" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="23608:23630" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="23637:23801" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="23807:23916" ph="/// Helper function that retrieves the index of the character under the mouse. ... " />
+                <marker date="1638256370908" expanded="true" signature="23953:24215" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="24218:24277" ph="/// Move the caret on press. ... " />
+                <marker date="1638256370908" expanded="true" signature="24327:24667" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="24503:24664" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="24670:24720" ph="/// Drag selection. ... " />
+                <marker date="1638256370908" expanded="true" signature="24768:24967" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="24917:24964" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="24970:25061" ph="/// Ensure we've released the dynamically created resources. ... " />
+                <marker date="1638256370908" expanded="true" signature="25099:25142" ph="/// Cleanup. ... " />
+                <marker date="1638256370908" expanded="true" signature="25178:25348" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25283:25345" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25351:25416" ph="/// Submit the input field's text. ... " />
+                <marker date="1638256370908" expanded="true" signature="25440:25648" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25476:25645" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25524:25611" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25651:25715" ph="/// Update the visual text label. ... " />
+                <marker date="1638256370908" expanded="true" signature="25744:29992" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="25768:29989" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="26067:26148" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="26156:27935" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="26202:26490" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27099:27862" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27246:27309" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27344:27409" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27444:27509" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27519:27710" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27633:27703" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="27871:27930" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="28067:29966" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="28237:28453" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="28514:29028" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="28549:28851" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="28861:29022" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="29078:29344" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="29353:29492" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="29515:29689" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="29698:29855" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="29995:30064" ph="/// Set the label's pivot to the left. ... " />
+                <marker date="1638256370908" expanded="true" signature="30099:30205" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="30208:30278" ph="/// Set the label's pivot to the right. ... " />
+                <marker date="1638256370908" expanded="true" signature="30314:30420" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="30423:30496" ph="/// Restore the input label's pivot point. ... " />
+                <marker date="1638256370908" expanded="true" signature="30534:30611" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="30614:30678" ph="/// Validate the specified input. ... " />
+                <marker date="1638256370908" expanded="true" signature="30736:32691" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="30868:31014" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="31057:31251" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="31301:31469" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="31515:31697" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="31739:32670" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="31958:32103" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32139:32313" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32337:32490" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32513:32666" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32694:32759" ph="/// Execute the OnChange callback. ... " />
+                <marker date="1638256370908" expanded="true" signature="32795:32941" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32856:32938" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="32944:33065" ph="/// Convenience function to be used as a callback that will clear the input field's focus. ... " />
+                <marker date="1638256370908" expanded="true" signature="33121:33235" ph="/// Convenience function that can be used as a callback for On Change notification. ... " />
+                <marker date="1638256370908" expanded="true" signature="33296:33428" ph="/// Convenience function that can forcefully reset the input field's value to what was saved earlier. ... " />
+                <marker date="1638256370908" expanded="true" signature="33455:33647" ph="{...}" />
+                <marker date="1638256370908" expanded="true" signature="33496:33644" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs" />
+        <option value="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Unity_Study/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Unity_Study/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-144" />
+    <option name="y" value="-924" />
+    <option name="width" value="1413" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd0883a-397a-4b51-b9a2-054ac0a67ba2" name="Default Changelist" comment="" />
+      <created>1638252115551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638252115551</updated>
+      <workItem from="1638252116868" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="881000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-144" y="-924" width="1413" height="768" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIPanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="850" column="59" selection-start-line="850" selection-start-column="59" selection-end-line="850" selection-end-column="59" />
+          <folding>
+            <marker date="1638256361041" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+            <marker date="1638256361041" expanded="false" signature="189:235" ph="..." />
+            <marker date="1638256361041" expanded="true" signature="237:383" ph="/// UI Panel is responsible for collecting, sorting and updating widgets in addition to generating widgets' geome ... " />
+            <marker date="1638256361041" expanded="true" signature="475:42733" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="479:536" ph="/// List of active panels. ... " />
+            <marker date="1638256361041" expanded="true" signature="620:662" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="710:847" ph="/// Notification triggered when the panel's geometry get rebuilt. It's mainly here for debugging purposes. ... " />
+            <marker date="1638256361041" expanded="true" signature="896:1043" ph="/// Whether this panel will show up in the panel tool (set this to 'false' for dynamically created temporary pane ... " />
+            <marker date="1638256361041" expanded="true" signature="1084:1180" ph="/// Whether normals and tangents will be generated for all meshes ... " />
+            <marker date="1638256361041" expanded="true" signature="1223:1349" ph="/// Whether widgets drawn by this panel are static (won't move). This will improve performance. ... " />
+            <marker date="1638256361041" expanded="true" signature="1392:1584" ph="/// Whether widgets will be culled while the panel is being dragged. ... " />
+            <marker date="1638256361041" expanded="true" signature="1627:1804" ph="/// Optimization flag. Makes the assumption that the panel's geometry ... " />
+            <marker date="1638256361041" expanded="true" signature="1845:2073" ph="/// By default, non-clipped panels use the camera's bounds, and the panel's position has no effect. ... " />
+            <marker date="1638256361041" expanded="true" signature="2112:2327" ph="/// By default all panels manage render queues of their draw calls themselves by incrementing them ... " />
+            <marker date="1638256361041" expanded="true" signature="2388:2611" ph="/// Render queue used by the panel. The default value of '3000' is the equivalent of &quot;Transparent&quot;. ... " />
+            <marker date="1638256361041" expanded="true" signature="2655:2773" ph="/// List of widgets managed by this panel. Do not attempt to modify this list yourself. ... " />
+            <marker date="1638256361041" expanded="true" signature="2856:2977" ph="/// List of draw calls created by this panel. Do not attempt to modify this list yourself. ... " />
+            <marker date="1638256361041" expanded="true" signature="3066:3193" ph="/// Matrix that will transform the specified world coordinates to relative-to-panel coordinates. ... " />
+            <marker date="1638256361041" expanded="true" signature="3274:3360" ph="/// Cached clip range passed to the draw call's shader. ... " />
+            <marker date="1638256361041" expanded="true" signature="3509:3616" ph="/// Event callback that's triggered when the panel's clip region gets moved. ... " />
+            <marker date="1638256361041" expanded="true" signature="4677:4770" ph="/// Helper property that returns the first unused depth value. ... " />
+            <marker date="1638256361041" expanded="true" signature="4806:5014" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="4815:5011" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5017:5090" ph="/// Whether the rectangle can be anchored. ... " />
+            <marker date="1638256361041" expanded="true" signature="5188:5275" ph="/// Panel's alpha affects everything drawn by the panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="5305:5506" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5314:5340" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5346:5503" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5410:5499" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5509:5654" ph="/// Panels can have their own depth value that will change the order with which everything they manage gets drawn ... " />
+            <marker date="1638256361041" expanded="true" signature="5673:5861" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5682:5708" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5714:5858" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5742:5854" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="5864:5981" ph="/// Sorting order value for the panel's draw calls, to be used with Unity's 2D system. ... " />
+            <marker date="1638256361041" expanded="true" signature="6007:6211" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6016:6049" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6055:6208" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6090:6204" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6214:6296" ph="/// Function that can be used to depth-sort panels. ... " />
+            <marker date="1638256361041" expanded="true" signature="6351:6554" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6394:6539" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="6557:6616" ph="/// Panel's width in pixels. ... " />
+            <marker date="1638256361041" expanded="true" signature="6676:6736" ph="/// Panel's height in pixels. ... " />
+            <marker date="1638256361041" expanded="true" signature="6797:6902" ph="/// Whether the panel's drawn geometry needs to be offset by a half-pixel. ... " />
+            <marker date="1638256361041" expanded="true" signature="6972:7054" ph="/// Whether the camera is used to draw UI geometry. ... " />
+            <marker date="1638256361041" expanded="true" signature="7137:7212" ph="/// Directx9 pixel offset, used for drawing. ... " />
+            <marker date="1638256361041" expanded="true" signature="7244:7486" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7253:7483" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7319:7455" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7489:7563" ph="/// Clipping method used by all draw calls. ... " />
+            <marker date="1638256361041" expanded="true" signature="7601:7835" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7610:7639" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7645:7832" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7676:7828" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="7869:7942" ph="/// Reference to the parent panel, if any. ... " />
+            <marker date="1638256361041" expanded="true" signature="8007:8091" ph="/// Number of times the panel's contents get clipped. ... " />
+            <marker date="1638256361041" expanded="true" signature="8114:8308" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="8123:8305" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="8188:8284" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="8311:8407" ph="/// Whether the panel will actually perform clipping of children. ... " />
+            <marker date="1638256361041" expanded="true" signature="8498:8594" ph="/// Whether the panel will actually perform clipping of children. ... " />
+            <marker date="1638256361041" expanded="true" signature="8813:9149" ph="/// Clipping area offset used to make it possible to move clipped panels (scroll views) efficiently. ... " />
+            <marker date="1638256361041" expanded="true" signature="9177:9551" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9186:9217" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9223:9548" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9330:9544" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9554:9651" ph="/// Invalidate the panel's clipping, calling child panels in turn. ... " />
+            <marker date="1638256361041" expanded="true" signature="9680:9948" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9842:9945" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="9951:10147" ph="/// Clipping position (XY) and size (ZW). ... " />
+            <marker date="1638256361041" expanded="true" signature="10246:10333" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10255:10289" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10295:10330" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10336:10532" ph="/// Clipping position (XY) and size (ZW). ... " />
+            <marker date="1638256361041" expanded="true" signature="10564:11182" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10573:10603" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10609:11179" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="10814:11175" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11185:11317" ph="/// Final clipping region after the offset has been taken into consideration. XY = center, ZW = size. ... " />
+            <marker date="1638256361041" expanded="true" signature="11350:11607" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11359:11604" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11443:11553" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11610:11709" ph="/// Clipping softness is used if the clipped style is set to &quot;Soft&quot;. ... " />
+            <marker date="1638256361041" expanded="true" signature="11739:11941" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11748:11781" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11787:11938" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="11822:11934" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="12036:12186" ph="/// Local-space corners of the panel's clipping rectangle. The order is bottom-left, top-left, top-right, bottom- ... " />
+            <marker date="1638256361041" expanded="true" signature="12227:12877" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="12236:12874" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="12286:12473" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="12481:12850" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="12880:13030" ph="/// World-space corners of the panel's clipping rectangle. The order is bottom-left, top-left, top-right, bottom- ... " />
+            <marker date="1638256361041" expanded="true" signature="13071:14319" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="13080:14316" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="13130:13576" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="13584:14292" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="13611:13837" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="13690:13810" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="14171:14287" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="14322:14468" ph="/// Get the sides of the rectangle relative to the specified transform. ... " />
+            <marker date="1638256361041" expanded="true" signature="14528:15569" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="14576:15217" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="15091:15195" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="15242:15530" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="15407:15509" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="15572:15653" ph="/// Invalidating the panel should reset its alpha. ... " />
+            <marker date="1638256361041" expanded="true" signature="15710:15774" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="15777:15878" ph="/// Widget's final alpha, after taking the panel's alpha into account. ... " />
+            <marker date="1638256361041" expanded="true" signature="15936:16228" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="16059:16204" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="16231:16292" ph="/// Set the panel's rectangle. ... " />
+            <marker date="1638256361041" expanded="true" signature="16369:17195" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="16864:17192" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="17198:17337" ph="/// Returns whether the specified rectangle is visible by the panel. The coordinates must be in world space. ... " />
+            <marker date="1638256361041" expanded="true" signature="17406:18105" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="18108:18249" ph="/// Returns whether the specified world position is within the panel's bounds determined by the clipping rect. ... " />
+            <marker date="1638256361041" expanded="true" signature="18292:18698" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="18701:18797" ph="/// Returns whether the specified widget is visible by the panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="18834:19268" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="18906:19250" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="19041:19089" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="19271:19384" ph="/// Whether the specified widget is going to be affected by this panel in any way. ... " />
+            <marker date="1638256361041" expanded="true" signature="19419:19696" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="19564:19677" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="19699:19792" ph="/// Causes all draw calls to be re-created on the next update. ... " />
+            <marker date="1638256361041" expanded="true" signature="19885:20043" ph="/// Invalidate the panel's draw calls, forcing them to be rebuilt on the next update. ... " />
+            <marker date="1638256361041" expanded="true" signature="20069:20184" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="20187:20239" ph="/// Cache components. ... " />
+            <marker date="1638256361041" expanded="true" signature="20255:20687" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="20690:20763" ph="/// Find the parent panel, if we have one. ... " />
+            <marker date="1638256361041" expanded="true" signature="20784:20931" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="20934:21007" ph="/// Find the parent panel, if we have one. ... " />
+            <marker date="1638256361041" expanded="true" signature="21050:21099" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="21102:21207" ph="/// Layer is used to ensure that if it changes, widgets get moved as well. ... " />
+            <marker date="1638256361041" expanded="true" signature="21244:21408" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="21411:21466" ph="/// Reset the frame IDs. ... " />
+            <marker date="1638256361041" expanded="true" signature="21504:21625" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="21628:21736" ph="/// Mark all widgets as having been changed so the draw calls get re-created. ... " />
+            <marker date="1638256361041" expanded="true" signature="21772:22661" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="21875:22534" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="21973:22530" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="22077:22203" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="22208:22525" ph="/* It's unclear if this helps 2D physics or not, so leaving it disabled for now. ... */" />
+            <marker date="1638256361041" expanded="true" signature="22664:22767" ph="/// Destroy all draw calls we've created when this script gets disabled. ... " />
+            <marker date="1638256361041" expanded="true" signature="22806:23146" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="22866:22950" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="23065:23123" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="23149:23254" ph="/// Update the world-to-local transform matrix as well as clipping bounds. ... " />
+            <marker date="1638256361041" expanded="true" signature="23286:23656" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="23344:23653" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="23659:23747" ph="/// Update the edges after the anchors have been updated. ... " />
+            <marker date="1638256361041" expanded="true" signature="23785:27048" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="24236:24951" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="24313:24691" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="24699:24947" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="24958:26463" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25012:25289" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25092:25196" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25205:25284" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25385:25667" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25466:25572" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25581:25662" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25765:26052" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25847:25955" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="25964:26047" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="26144:26416" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="26223:26325" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="26334:26411" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27083:27151" ph="/// Update all panels and draw calls. ... " />
+            <marker date="1638256361041" expanded="true" signature="27172:28127" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27309:28124" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27599:28120" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27678:27779" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27830:27970" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="27991:28115" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28130:28217" ph="/// Update the panel, all of its widgets and draw calls. ... " />
+            <marker date="1638256361041" expanded="true" signature="28238:28794" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28354:28406" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28413:28642" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28459:28638" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28540:28624" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28664:28791" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28797:28867" ph="/// Immediately sort all child widgets. ... " />
+            <marker date="1638256361041" expanded="true" signature="28896:28969" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="28972:29086" ph="/// Fill the geometry fully, processing all widgets and re-creating all draw calls. ... " />
+            <marker date="1638256361041" expanded="true" signature="29113:30479" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29388:30381" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29458:30350" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29597:29781" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29646:29729" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29833:30345" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="29860:30014" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30024:30158" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30422:30476" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30482:30563" ph="/// Fill the geometry for the specified draw call. ... " />
+            <marker date="1638256361041" expanded="true" signature="30599:31265" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30620:31246" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30688:31162" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30742:30868" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30895:31148" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="30940:31113" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="31190:31242" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="31268:31351" ph="/// Update all draw calls associated with the panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="31377:33045" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="31487:31599" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="31877:31949" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="31969:32083" ph="/* We want the position to always be on even pixels so that the ... */" />
+            <marker date="1638256361041" expanded="true" signature="32095:32463" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="32209:32433" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="32609:33042" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="33048:33141" ph="/// Update the widget layers if the panel's layer has changed. ... " />
+            <marker date="1638256361041" expanded="true" signature="33164:33568" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="33253:33565" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="33595:33680" ph="/// Update all of the widgets belonging to this panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="33703:35999" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="33971:34026" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34147:35870" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34259:35866" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34286:34411" ph="/* When an object is dragged from Project view to Scene view, its Z is... ... */" />
+            <marker date="1638256361041" expanded="true" signature="34443:35125" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34539:34659" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34680:35119" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34704:34849" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="34871:35112" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="35255:35525" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="35612:35861" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="35660:35855" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="35697:35747" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="35758:35848" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36002:36248" ph="/// Insert the specified widget into one of the existing draw calls if possible. ... " />
+            <marker date="1638256361041" expanded="true" signature="36294:36955" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36425:36918" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36672:36914" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36734:36866" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36762:36860" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="36958:37043" ph="/// Make the following widget be managed by the panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="37080:37517" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37134:37161" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37186:37231" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37290:37323" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37330:37495" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37374:37491" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37520:37635" ph="/// Remove the widget from its current draw call, invalidating everything as needed. ... " />
+            <marker date="1638256361041" expanded="true" signature="37675:37905" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37725:37902" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="37908:37973" ph="/// Immediately refresh the panel. ... " />
+            <marker date="1638256361041" expanded="true" signature="37998:38067" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="38070:38177" ph="/// Calculate the offset needed to be constrained within the panel's bounds. ... " />
+            <marker date="1638256361041" expanded="true" signature="38254:38834" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="38626:38762" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="38837:38936" ph="/// Constrain the current target position to be within panel bounds. ... " />
+            <marker date="1638256361041" expanded="true" signature="39034:39573" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="39151:39554" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="39173:39357" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="39365:39534" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="39576:39674" ph="/// Constrain the specified target to be within the panel's bounds. ... " />
+            <marker date="1638256361041" expanded="true" signature="39747:39901" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="39904:40005" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+            <marker date="1638256361041" expanded="true" signature="40090:40191" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+            <marker date="1638256361041" expanded="true" signature="40308:40409" ph="/// Find the UIPanel responsible for handling the specified transform. ... " />
+            <marker date="1638256361041" expanded="true" signature="40489:40783" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="40558:40705" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="40786:40863" ph="/// Get the size of the game window in pixels. ... " />
+            <marker date="1638256361041" expanded="true" signature="40890:41049" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="41052:41163" ph="/// Panel's size -- which is either the clipping rect, or the screen dimensions. ... " />
+            <marker date="1638256361041" expanded="true" signature="41195:41428" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="41339:41410" ph="/* UIRoot rt = root; ... */" />
+            <marker date="1638256361041" expanded="true" signature="41448:41532" ph="/// Draw a visible pink outline for the clipped area. ... " />
+            <marker date="1638256361041" expanded="true" signature="41555:42708" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="42442:42705" ph="{...}" />
+            <marker date="1638256361041" expanded="true" signature="42450:42532" ph="/* UIRoot rt = root; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/NGUITools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+          <folding>
+            <marker date="1638256364951" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+            <marker date="1638256364951" expanded="false" signature="189:291" ph="..." />
+            <marker date="1638256364951" expanded="true" signature="293:399" ph="/// Helper class containing generic functions used throughout the UI library. ... " />
+            <marker date="1638256364951" expanded="true" signature="430:41468" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="533:649" ph="/// Globally accessible volume affecting all sounds played via NGUITools.PlaySound(). ... " />
+            <marker date="1638256364951" expanded="true" signature="683:974" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="692:827" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="713:798" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="833:971" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="868:967" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="977:1066" ph="/// Helper function -- whether the disk access is allowed. ... " />
+            <marker date="1638256364951" expanded="true" signature="1098:1240" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="1107:1237" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="1243:1308" ph="/// Play the specified audio clip. ... " />
+            <marker date="1638256364951" expanded="true" signature="1402:1493" ph="/// Play the specified audio clip with the specified volume. ... " />
+            <marker date="1638256364951" expanded="true" signature="1605:1706" ph="/// Play the specified audio clip with the specified volume and pitch. ... " />
+            <marker date="1638256364951" expanded="true" signature="1788:2833" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="1855:2815" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="1920:2478" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2057:2239" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2111:2233" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2163:2226" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2267:2473" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2571:2811" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="2836:3965" ph="/* New WWW call can fail if the crossdomain policy doesn't check out. Exceptions suck. It's much more elegant to ... */" />
+            <marker date="1638256364951" expanded="true" signature="3968:4231" ph="/// Same as Random.Range, but the returned value is between min and max, inclusive. ... " />
+            <marker date="1638256364951" expanded="true" signature="4282:4367" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="4370:4468" ph="/// Returns the hierarchy of the object in a human-readable format. ... " />
+            <marker date="1638256364951" expanded="true" signature="4521:4722" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="4620:4704" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="4725:4802" ph="/// Find all active objects of specified type. ... " />
+            <marker date="1638256364951" expanded="true" signature="4859:4922" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="4925:5035" ph="/// Find the camera responsible for drawing the objects on the specified layer. ... " />
+            <marker date="1638256364951" expanded="true" signature="5089:5804" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="5185:5306" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="5676:5786" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="5807:5907" ph="/// Add a collider to the game object containing one or more widgets. ... " />
+            <marker date="1638256364951" expanded="true" signature="5999:6099" ph="/// Add a collider to the game object containing one or more widgets. ... " />
+            <marker date="1638256364951" expanded="true" signature="6177:7546" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="6198:7533" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="6329:6400" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="6596:6668" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="6838:7188" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="7196:7529" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="7549:7683" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+            <marker date="1638256364951" expanded="true" signature="7741:7782" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="7785:7919" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+            <marker date="1638256364951" expanded="true" signature="8000:8299" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8021:8296" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8097:8167" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8302:8436" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+            <marker date="1638256364951" expanded="true" signature="8519:9373" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8541:9370" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8644:9130" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8743:8960" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="8969:9125" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="9138:9314" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="9376:9510" ph="/// Adjust the widget's collider based on the depth of the widgets, as well as the widget's dimensions. ... " />
+            <marker date="1638256364951" expanded="true" signature="9595:10110" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="9617:10107" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="9720:9871" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="9879:10051" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="10113:10205" ph="/// Helper function that returns the string name of the type. ... " />
+            <marker date="1638256364951" expanded="true" signature="10246:10407" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="10410:10502" ph="/// Helper function that returns the string name of the type. ... " />
+            <marker date="1638256364951" expanded="true" signature="10562:10761" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="10764:10868" ph="/// Convenience method that works without warnings in both Unity 3 and 4. ... " />
+            <marker date="1638256364951" expanded="true" signature="10940:11041" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="11044:11161" ph="/// Convenience function that marks the specified object as dirty in the Unity Editor. ... " />
+            <marker date="1638256364951" expanded="true" signature="11216:11552" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="11247:11542" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="11255:11494" ph="/* if (obj is Component) Debug.Log(NGUITools.GetHierarchy((obj as Component).gameObject), obj); ... */" />
+            <marker date="1638256364951" expanded="true" signature="11555:11618" ph="/// Add a new child game object. ... " />
+            <marker date="1638256364951" expanded="true" signature="11712:11775" ph="/// Add a new child game object. ... " />
+            <marker date="1638256364951" expanded="true" signature="11842:12227" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="12004:12211" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="12230:12322" ph="/// Instantiate an object and add it to the specified parent. ... " />
+            <marker date="1638256364951" expanded="true" signature="12397:12814" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="12591:12798" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="12817:12962" ph="/// Calculate the game object's depth based on the widgets within, and also taking panel depth into consideration ... " />
+            <marker date="1638256364951" expanded="true" signature="13020:13405" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="13296:13386" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="13408:13508" ph="/// Gathers all widgets and calculates the depth for the next widget. ... " />
+            <marker date="1638256364951" expanded="true" signature="13563:13773" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="13776:13876" ph="/// Gathers all widgets and calculates the depth for the next widget. ... " />
+            <marker date="1638256364951" expanded="true" signature="13965:14411" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14003:14375" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14148:14350" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14414:14603" ph="/// Adjust the widgets' depth by the specified value. ... " />
+            <marker date="1638256364951" expanded="true" signature="14667:15360" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14688:15345" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14762:15040" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="14882:15021" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="15048:15341" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="15181:15322" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="15363:15455" ph="/// Bring all of the widgets on the specified object forward. ... " />
+            <marker date="1638256364951" expanded="true" signature="15505:15632" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="15635:15766" ph="/// Push all of the widgets on the specified object back, making them appear behind everything else. ... " />
+            <marker date="1638256364951" expanded="true" signature="15812:15940" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="15943:16088" ph="/// Normalize the depths of all the widgets and panels in the scene, making them start from 0 and remain in order ... " />
+            <marker date="1638256364951" expanded="true" signature="16128:16187" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16190:16324" ph="/// Normalize the depths of all the widgets in the scene, making them start from 0 and remain in order. ... " />
+            <marker date="1638256364951" expanded="true" signature="16370:16772" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16460:16769" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16597:16765" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16657:16691" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16700:16760" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="16775:16908" ph="/// Normalize the depths of all the panels in the scene, making them start from 0 and remain in order. ... " />
+            <marker date="1638256364951" expanded="true" signature="16953:17347" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="17041:17344" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="17173:17340" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="17232:17266" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="17275:17335" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="17350:17401" ph="/// Create a new UI. ... " />
+            <marker date="1638256364951" expanded="true" signature="17498:17549" ph="/// Create a new UI. ... " />
+            <marker date="1638256364951" expanded="true" signature="17660:17711" ph="/// Create a new UI. ... " />
+            <marker date="1638256364951" expanded="true" signature="17790:21136" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18101:18291" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18242:18287" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18346:18847" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18657:18747" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18755:18843" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="18954:20590" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="19199:19580" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="19932:20061" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="20069:20194" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="20612:21117" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="20748:20851" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="20859:21113" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="21139:21282" ph="/// Helper function that recursively sets all children with widgets' game objects layers to the specified value. ... " />
+            <marker date="1638256364951" expanded="true" signature="21342:21500" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="21386:21497" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="21503:21621" ph="/// Add a child object to the specified parent and attaches the specified script to it. ... " />
+            <marker date="1638256364951" expanded="true" signature="21691:21794" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="21797:21915" ph="/// Add a child object to the specified parent and attaches the specified script to it. ... " />
+            <marker date="1638256364951" expanded="true" signature="21996:22105" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="22108:22178" ph="/// Add a new widget of specified type. ... " />
+            <marker date="1638256364951" expanded="true" signature="22244:22499" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="22502:22681" ph="/// Add a sprite appropriate for the specified atlas sprite. ... " />
+            <marker date="1638256364951" expanded="true" signature="22766:23059" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23062:23150" ph="/// Get the rootmost object of the specified game object. ... " />
+            <marker date="1638256364951" expanded="true" signature="23201:23359" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23248:23333" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23362:23468" ph="/// Finds the specified component on the game object or one of its parents. ... " />
+            <marker date="1638256364951" expanded="true" signature="23539:23913" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23693:23848" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23773:23844" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="23916:24022" ph="/// Finds the specified component on the game object or one of its parents. ... " />
+            <marker date="1638256364951" expanded="true" signature="24095:24481" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24258:24416" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24341:24412" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24484:24577" ph="/// Destroy the specified object, immediately if in edit mode. ... " />
+            <marker date="1638256364951" expanded="true" signature="24631:24904" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24653:24901" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24687:24847" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24719:24804" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="24907:25060" ph="/// Destroy the specified object immediately, unless not in the editor, in which case the regular Destroy is used ... " />
+            <marker date="1638256364951" expanded="true" signature="25123:25268" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="25145:25265" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="25271:25362" ph="/// Call the specified function on all objects in the scene. ... " />
+            <marker date="1638256364951" expanded="true" signature="25411:25626" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="25629:25720" ph="/// Call the specified function on all objects in the scene. ... " />
+            <marker date="1638256364951" expanded="true" signature="25783:26005" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="26008:26111" ph="/// Determines whether the 'parent' contains a 'child' in its hierarchy. ... " />
+            <marker date="1638256364951" expanded="true" signature="26176:26346" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="26257:26327" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="26349:26438" ph="/// Activate the specified object and all of its children. ... " />
+            <marker date="1638256364951" expanded="true" signature="26502:26591" ph="/// Activate the specified object and all of its children. ... " />
+            <marker date="1638256364951" expanded="true" signature="26652:27243" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="26718:27240" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="26887:26979" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="27162:27236" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="27246:27337" ph="/// Deactivate the specified object and all of its children. ... " />
+            <marker date="1638256364951" expanded="true" signature="27419:27604" ph="/// SetActiveRecursively enables children before parents. This is a problem when a widget gets re-enabled ... " />
+            <marker date="1638256364951" expanded="true" signature="27698:27883" ph="/// SetActiveRecursively enables children before parents. This is a problem when a widget gets re-enabled ... " />
+            <marker date="1638256364951" expanded="true" signature="27966:28186" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="27979:28183" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="27997:28145" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="28189:28344" ph="/// Ensure that all widgets have had their panels created, forcing the update right away rather than on the follo ... " />
+            <marker date="1638256364951" expanded="true" signature="28467:28639" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="28642:28793" ph="/// Activate or deactivate children of the specified game object without changing the active state of the object  ... " />
+            <marker date="1638256364951" expanded="true" signature="28860:29181" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="28907:29038" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="28966:29034" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="29045:29178" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="29104:29174" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="29184:29294" ph="/// Helper function that returns whether the specified MonoBehaviour is active. ... " />
+            <marker date="1638256364951" expanded="true" signature="29393:29469" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="29472:29582" ph="/// Helper function that returns whether the specified MonoBehaviour is active. ... " />
+            <marker date="1638256364951" expanded="true" signature="29707:29775" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="29778:29875" ph="/// Unity4 has changed GameObject.active to GameObject.activeself. ... " />
+            <marker date="1638256364951" expanded="true" signature="30001:30044" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="30047:30143" ph="/// Unity4 has changed GameObject.active to GameObject.SetActive. ... " />
+            <marker date="1638256364951" expanded="true" signature="30285:30314" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="30317:30392" ph="/// Recursively set the game object's layer. ... " />
+            <marker date="1638256364951" expanded="true" signature="30449:30645" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="30560:30642" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="30648:30743" ph="/// Helper function used to make the vector use integer numbers. ... " />
+            <marker date="1638256364951" expanded="true" signature="30785:30881" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="30884:30962" ph="/// Make the specified selection pixel-perfect. ... " />
+            <marker date="1638256364951" expanded="true" signature="31014:31457" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="31178:31336" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="31460:31550" ph="/// Save the specified binary data into the specified file. ... " />
+            <marker date="1638256364951" expanded="true" signature="31608:32133" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="31827:31896" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="31930:31967" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="31997:32053" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="32136:32216" ph="/// Load all binary data from the specified file. ... " />
+            <marker date="1638256364951" expanded="true" signature="32262:32551" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="32483:32526" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="32554:32706" ph="/// Pre-multiply shaders result in a black outline if this operation is done in the shader. It's better to do it  ... " />
+            <marker date="1638256364951" expanded="true" signature="32747:32835" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="32767:32820" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="32838:32952" ph="/// Inform all widgets underneath the specified object that the parent has changed. ... " />
+            <marker date="1638256364951" expanded="true" signature="33009:33158" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="33161:33242" ph="/// Access to the clipboard via undocumented APIs. ... " />
+            <marker date="1638256364951" expanded="true" signature="33275:33495" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="33284:33371" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="33377:33492" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="33943:34153" ph="/// Extension for the game object that checks to see if the component already exists before adding a new one. ... " />
+            <marker date="1638256364951" expanded="true" signature="34235:34560" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="34358:34495" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="34653:34770" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+            <marker date="1638256364951" expanded="true" signature="34823:34913" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="34916:35033" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+            <marker date="1638256364951" expanded="true" signature="35099:35141" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="35144:35261" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+            <marker date="1638256364951" expanded="true" signature="35336:35432" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="35435:35552" ph="/// Get sides relative to the specified camera. The order is left, top, right, bottom. ... " />
+            <marker date="1638256364951" expanded="true" signature="35640:36461" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="36341:36441" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="36464:36597" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+            <marker date="1638256364951" expanded="true" signature="36657:36754" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="36757:36890" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+            <marker date="1638256364951" expanded="true" signature="36963:37012" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="37015:37148" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+            <marker date="1638256364951" expanded="true" signature="37230:37333" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="37336:37469" ph="/// Get the camera's world-space corners. The order is bottom-left, top-left, top-right, bottom-right. ... " />
+            <marker date="1638256364951" expanded="true" signature="37564:38385" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="38265:38365" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="38388:38516" ph="/// Convenience function that converts Class + Function combo into Class.Function representation. ... " />
+            <marker date="1638256364951" expanded="true" signature="38579:38822" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="38858:38950" ph="/// Execute the specified function on the target game object. ... " />
+            <marker date="1638256364951" expanded="true" signature="39035:39460" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="39104:39457" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="39463:39579" ph="/// Execute the specified function on the target game object and all of its children. ... " />
+            <marker date="1638256364951" expanded="true" signature="39669:39845" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="39848:40079" ph="/// Immediately start, update, and create all the draw calls from newly instantiated UI. ... " />
+            <marker date="1638256364951" expanded="true" signature="40145:40350" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="40510:40652" ph="/// Size of the game view cannot be retrieved from Screen.width and Screen.height when the game view is hidden. ... " />
+            <marker date="1638256364951" expanded="true" signature="40687:41213" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="40696:41210" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="40787:41185" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="40858:41111" ph="{...}" />
+            <marker date="1638256364951" expanded="true" signature="41221:41363" ph="/* Size of the game view cannot be retrieved from Screen.width and Screen.height when the game view is hidden. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="754" column="37" selection-start-line="754" selection-start-column="37" selection-end-line="754" selection-end-column="37" />
+          <folding>
+            <marker date="1638256370908" expanded="true" signature="0:181" ph="/* ---------------------------------------------- ... */" />
+            <marker date="1638256370908" expanded="false" signature="313:378" ph="..." />
+            <marker date="1638256370908" expanded="true" signature="380:485" ph="/// Input field makes it possible to enter custom information within the UI. ... " />
+            <marker date="1638256370908" expanded="true" signature="565:33649" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="590:635" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="660:730" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="757:911" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="937:975" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="1058:1151" ph="/// Currently active input field. Only valid during callbacks. ... " />
+            <marker date="1638256370908" expanded="true" signature="1187:1261" ph="/// Currently selected input field, if any. ... " />
+            <marker date="1638256370908" expanded="true" signature="1299:1379" ph="/// Text label used to display the input's value. ... " />
+            <marker date="1638256370908" expanded="true" signature="1406:1482" ph="/// Type of data expected by the input field. ... " />
+            <marker date="1638256370908" expanded="true" signature="1536:1629" ph="/// What to do when the Return key is pressed on the keyboard. ... " />
+            <marker date="1638256370908" expanded="true" signature="1688:1780" ph="/// Keyboard type applies to mobile keyboards that get shown. ... " />
+            <marker date="1638256370908" expanded="true" signature="1842:1930" ph="/// Whether the input will be hidden on mobile platforms. ... " />
+            <marker date="1638256370908" expanded="true" signature="1966:2060" ph="/// What kind of validation to use with the input field's data. ... " />
+            <marker date="1638256370908" expanded="true" signature="2113:2214" ph="/// Maximum number of characters allowed before input no longer works. ... " />
+            <marker date="1638256370908" expanded="true" signature="2250:2344" ph="/// Field in player prefs used to automatically save the value. ... " />
+            <marker date="1638256370908" expanded="true" signature="2372:2450" ph="/// Object to select when Tab key gets pressed. ... " />
+            <marker date="1638256370908" expanded="true" signature="2486:2571" ph="/// Color of the label when the input field has focus. ... " />
+            <marker date="1638256370908" expanded="true" signature="2620:2686" ph="/// Color used by the caret symbol. ... " />
+            <marker date="1638256370908" expanded="true" signature="2746:2819" ph="/// Color used by the selection rectangle. ... " />
+            <marker date="1638256370908" expanded="true" signature="2901:3000" ph="/// Event delegates triggered when the input field submits its data. ... " />
+            <marker date="1638256370908" expanded="true" signature="3070:3182" ph="/// Event delegates triggered when the input field's text changes for any reason. ... " />
+            <marker date="1638256370908" expanded="true" signature="3252:3314" ph="/// Custom validation callback. ... " />
+            <marker date="1638256370908" expanded="true" signature="3349:3404" ph="/// Input field's value. ... " />
+            <marker date="1638256370908" expanded="true" signature="4650:4724" ph="/// Default text used by the input's label. ... " />
+            <marker date="1638256370908" expanded="true" signature="4752:4877" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="4761:4793" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="4799:4874" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="4880:4942" ph="/// Should the input be hidden? ... " />
+            <marker date="1638256370908" expanded="true" signature="4976:5134" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="4985:5131" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="5265:5333" ph="/// Input field's current text value. ... " />
+            <marker date="1638256370908" expanded="true" signature="5355:6435" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="5364:5480" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="5486:6432" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6053:6428" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6128:6345" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6172:6238" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6248:6339" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6573:6648" ph="/// Whether the input is currently selected. ... " />
+            <marker date="1638256370908" expanded="true" signature="6673:6849" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6682:6719" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6725:6846" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6852:6918" ph="/// Current position of the cursor. ... " />
+            <marker date="1638256370908" expanded="true" signature="6946:7274" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="6955:7105" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7111:7271" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7134:7267" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7277:7358" ph="/// Index of the character where selection begins. ... " />
+            <marker date="1638256370908" expanded="true" signature="7386:7707" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7395:7536" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7542:7704" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7565:7700" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7710:7789" ph="/// Index of the character where selection ends. ... " />
+            <marker date="1638256370908" expanded="true" signature="7815:8143" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7824:7974" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="7980:8140" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="8003:8136" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="8146:8208" ph="/// Caret, in case it's needed. ... " />
+            <marker date="1638256370908" expanded="true" signature="8263:8359" ph="/// Validate the specified text, returning the validated version. ... " />
+            <marker date="1638256370908" expanded="true" signature="8397:8878" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="8537:8752" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="8881:8988" ph="/// Automatically set the value by loading it from player prefs if possible. ... " />
+            <marker date="1638256370908" expanded="true" signature="9004:9124" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="9127:9212" ph="/// Labels used for input shouldn't support rich text. ... " />
+            <marker date="1638256370908" expanded="true" signature="9237:9724" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="9272:9721" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="9449:9619" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="9727:9803" ph="/// Save the specified value to player prefs. ... " />
+            <marker date="1638256370908" expanded="true" signature="9851:10014" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="9892:10011" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="10017:10093" ph="/// Selection event, sent by the EventSystem. ... " />
+            <marker date="1638256370908" expanded="true" signature="10145:10212" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="10215:10300" ph="/// Notification of the input field gaining selection. ... " />
+            <marker date="1638256370908" expanded="true" signature="10334:10631" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="10384:10549" ph="/* Unity has issues bringing up the keyboard properly if it's in &quot;hideInput&quot; mode and you happen ... */" />
+            <marker date="1638256370908" expanded="true" signature="10634:10718" ph="/// Notification of the input field losing selection. ... " />
+            <marker date="1638256370908" expanded="true" signature="10754:11255" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="10831:11214" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="11027:11101" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="11258:11324" ph="/// Update the text based on input. ... " />
+            <marker date="1638256370908" expanded="true" signature="11342:16418" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="11425:16415" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="11708:11874" ph="/* Unity has issues bringing up the keyboard properly if it's in &quot;hideInput&quot; mode and you happen ... */" />
+            <marker date="1638256370908" expanded="true" signature="11930:14080" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="14860:14929" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="14978:15151" ph="/* There seems to be an inconsistency between IME on Windows, and IME on OSX. ... */" />
+            <marker date="1638256370908" expanded="true" signature="15230:15776" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="15242:15400" ph="/* Process input ignoring non-printable characters as they are not consistent. ... */" />
+            <marker date="1638256370908" expanded="true" signature="15476:15770" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="15832:16004" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16085:16172" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16177:16339" ph="/* If the label's final alpha changes, we need to update the drawn geometry, ... */" />
+            <marker date="1638256370908" expanded="true" signature="16421:16556" ph="/// Unfortunately Unity 4.3 and earlier doesn't offer a way to properly process events outside of OnGUI. ... " />
+            <marker date="1638256370908" expanded="true" signature="16572:16674" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16677:16742" ph="/// Perform a backspace operation. ... " />
+            <marker date="1638256370908" expanded="true" signature="16774:16949" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16814:16946" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16859:16927" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="16952:17014" ph="/// Handle the specified event. ... " />
+            <marker date="1638256370908" expanded="true" signature="17063:21405" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="17489:21386" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="17664:17830" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="17713:17807" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="17939:18075" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="18185:18333" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="18439:18545" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="18653:18771" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="18875:19103" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="18907:18997" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="19206:19445" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="19238:19327" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="19552:19770" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="19879:20165" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="20243:20352" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="20424:20494" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="20567:20628" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="20699:20786" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="21148:21179" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="21188:21360" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="21408:21542" ph="/// Insert the specified text string into the current input value, respecting selection and validation. ... " />
+            <marker date="1638256370908" expanded="true" signature="21588:22902" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="21861:22371" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="21967:22010" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="22617:22834" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="22905:22982" ph="/// Get the text to the left of the selection. ... " />
+            <marker date="1638256370908" expanded="true" signature="23016:23161" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="23164:23242" ph="/// Get the text to the right of the selection. ... " />
+            <marker date="1638256370908" expanded="true" signature="23277:23432" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="23435:23498" ph="/// Get currently selected text. ... " />
+            <marker date="1638256370908" expanded="true" signature="23533:23804" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="23608:23630" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="23637:23801" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="23807:23916" ph="/// Helper function that retrieves the index of the character under the mouse. ... " />
+            <marker date="1638256370908" expanded="true" signature="23953:24215" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="24218:24277" ph="/// Move the caret on press. ... " />
+            <marker date="1638256370908" expanded="true" signature="24327:24667" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="24503:24664" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="24670:24720" ph="/// Drag selection. ... " />
+            <marker date="1638256370908" expanded="true" signature="24768:24967" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="24917:24964" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="24970:25061" ph="/// Ensure we've released the dynamically created resources. ... " />
+            <marker date="1638256370908" expanded="true" signature="25099:25142" ph="/// Cleanup. ... " />
+            <marker date="1638256370908" expanded="true" signature="25178:25348" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25283:25345" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25351:25416" ph="/// Submit the input field's text. ... " />
+            <marker date="1638256370908" expanded="true" signature="25440:25648" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25476:25645" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25524:25611" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25651:25715" ph="/// Update the visual text label. ... " />
+            <marker date="1638256370908" expanded="true" signature="25744:29992" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="25768:29989" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="26067:26148" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="26156:27935" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="26202:26490" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27099:27862" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27246:27309" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27344:27409" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27444:27509" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27519:27710" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27633:27703" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="27871:27930" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="28067:29966" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="28237:28453" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="28514:29028" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="28549:28851" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="28861:29022" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="29078:29344" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="29353:29492" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="29515:29689" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="29698:29855" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="29995:30064" ph="/// Set the label's pivot to the left. ... " />
+            <marker date="1638256370908" expanded="true" signature="30099:30205" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="30208:30278" ph="/// Set the label's pivot to the right. ... " />
+            <marker date="1638256370908" expanded="true" signature="30314:30420" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="30423:30496" ph="/// Restore the input label's pivot point. ... " />
+            <marker date="1638256370908" expanded="true" signature="30534:30611" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="30614:30678" ph="/// Validate the specified input. ... " />
+            <marker date="1638256370908" expanded="true" signature="30736:32691" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="30868:31014" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="31057:31251" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="31301:31469" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="31515:31697" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="31739:32670" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="31958:32103" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32139:32313" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32337:32490" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32513:32666" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32694:32759" ph="/// Execute the OnChange callback. ... " />
+            <marker date="1638256370908" expanded="true" signature="32795:32941" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32856:32938" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="32944:33065" ph="/// Convenience function to be used as a callback that will clear the input field's focus. ... " />
+            <marker date="1638256370908" expanded="true" signature="33121:33235" ph="/// Convenience function that can be used as a callback for On Change notification. ... " />
+            <marker date="1638256370908" expanded="true" signature="33296:33428" ph="/// Convenience function that can forcefully reset the input field's value to what was saved earlier. ... " />
+            <marker date="1638256370908" expanded="true" signature="33455:33647" ph="{...}" />
+            <marker date="1638256370908" expanded="true" signature="33496:33644" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
